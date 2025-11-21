@@ -1,0 +1,10 @@
+2일차 (2025/10/20, D+2)
+연속 2일째
+
+문제번호 : 10867
+난이도 : 실버5
+사용언어 : Python
+풀이시간 : 약 9분
+
+알게된점 : ||TypeError: int() argument must be a string, a bytes-like object or a real number, not 'list' - 제발 map(int, input().split())을 쓰세요....||
+한마디 : ||당분간 채찍피티 금지||
